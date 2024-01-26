@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NJoudt10
+- 👋 Hi, I’m Njoud Alanazi
 - 👀 I’m interested in Data Analysis ,UI-UX And Ai
 - 🌱 I’m currently learning Information Systems at PSAU.
 - 💞️ I seek to enhance my skills, gain additional experience, and participate in collaborative projects.
